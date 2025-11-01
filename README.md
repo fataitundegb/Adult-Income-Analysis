@@ -1,4 +1,4 @@
-# Adult-Income-Analysis
+# Income-Analysis
 
 ![Image](https://github.com/user-attachments/assets/76947dfa-65c5-457a-b225-ab4eee75f213)
 
